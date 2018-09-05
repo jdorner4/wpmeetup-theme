@@ -1,0 +1,7 @@
+/*
+ Theme Name:   WP Meetup Child Theme
+ Template:     twentysixteen
+*/
+
+h2 { color:red; }
+.site-branding .site-title a:hover, .site-branding .site-title a:focus {color:red;}
